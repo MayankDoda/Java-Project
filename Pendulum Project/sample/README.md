@@ -5,4 +5,4 @@
 |------|----------|---------|
 | Pendulum | Java | JavaFx |
 ---
-![Project-Image](Pendulum Project/sample/project_screenshot.PNG)
+![Project-Image](https://github.com/MayankDoda/Java-Project/blob/main/Pendulum%20Project/sample/project_screenshot.PNG)
